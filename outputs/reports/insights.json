@@ -1,0 +1,10 @@
+{
+  "highest_unemployment_state": "Rajasthan has the highest average unemployment at 26.7%.",
+  "lowest_unemployment_state": "Sikkim has the lowest average unemployment at 4.0%.",
+  "national_average": "The national average unemployment rate is 9.9%.",
+  "trend_direction": "Unemployment is on a declining trend over the analysis period.",
+  "peak_period": "Peak unemployment occurred around April 2020 with 24.2%.",
+  "most_volatile_state": "Tripura shows the highest unemployment volatility (std = 4.46%).",
+  "covid_impact": "A significant spike is visible in mid-2020 across all states due to COVID-19 lockdowns.",
+  "recovery_observation": "Post-2021, most states show a gradual recovery in employment conditions."
+}

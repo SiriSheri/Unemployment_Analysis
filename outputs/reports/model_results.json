@@ -1,0 +1,26 @@
+{
+  "Linear Regression": {
+    "MAE": 0.9477,
+    "MSE": 2.0552,
+    "RMSE": 1.4336,
+    "R2": 0.9092
+  },
+  "Decision Tree": {
+    "MAE": 1.0477,
+    "MSE": 2.0908,
+    "RMSE": 1.4459,
+    "R2": 0.9076
+  },
+  "Random Forest": {
+    "MAE": 0.7,
+    "MSE": 0.9942,
+    "RMSE": 0.9971,
+    "R2": 0.9561
+  },
+  "Gradient Boosting": {
+    "MAE": 0.6874,
+    "MSE": 0.8791,
+    "RMSE": 0.9376,
+    "R2": 0.9611
+  }
+}

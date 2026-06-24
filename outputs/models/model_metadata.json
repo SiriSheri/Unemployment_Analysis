@@ -1,0 +1,1 @@
+{"model_name": "Gradient Boosting", "feature_cols": ["Year", "Month", "Quarter", "Rolling_3M_Avg", "Rolling_6M_Avg", "Lag_1M", "Lag_3M", "Lag_6M", "Labour_Participation_Rate", "State_Encoded", "Region_Encoded"]}

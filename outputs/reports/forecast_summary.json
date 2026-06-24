@@ -1,0 +1,14 @@
+{
+  "next_month": {
+    "date": "2024-01-01",
+    "rate": 7.14
+  },
+  "next_quarter": {
+    "date": "2024-03-01",
+    "rate": 6.56
+  },
+  "next_year": {
+    "date": "2024-12-01",
+    "rate": 6.2
+  }
+}
